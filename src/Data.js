@@ -74,4 +74,3 @@ export const projects = [
     "Netlify",
     "Vercel",
   ];
-  
