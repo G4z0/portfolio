@@ -32,3 +32,46 @@ export const projects = [
       link: "https://pythonbootcamp.com",
     },
   ];
+
+  export const testimonials = [
+    {
+      quote:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!",
+      image: "./testimonial-1.jpg",
+      name: "Adam Cuppy",
+      company: "Apple",
+    },
+    {
+      quote:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!",
+      image: "./testimonial-2.jpg",
+      name: "Ben Johnson",
+      company: "Microsoft",
+    },
+    {
+      quote:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!",
+      image: "./testimonial-3.jpg",
+      name: "Hannah Wright",
+      company: "Amazon",
+    },
+  ];
+
+  export const skills = [
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "MongoDB",
+    "Python",
+    "Django",
+    "Flask",
+    "SQL",
+    "PostgreSQL",
+    "Git",
+    "GitHub",
+    "Heroku",
+    "Netlify",
+    "Vercel",
+  ];
+  
